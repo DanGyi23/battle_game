@@ -1,2 +1,2 @@
 require './app.rb'
-run Battle_app
+run BattleApp
